@@ -1,0 +1,9 @@
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (2, 1, 'Madrid', 'juan@gmail.com', '2020-01-01');
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (3, 2, 'Barcelona', 'paco@gmail.com', '2020-01-01');
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (2, 3, 'Badajoz', 'jara@gmail.com', '2020-01-01');
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (2, 4, 'Soria', 'hugo@gmail.com', '2020-01-01');
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (2, 5, 'Madrid', 'javi@gmail.com', '2020-01-01');
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (2, 6, 'Valencia', 'silvia@gmail.com', '2020-01-01');
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (2, 7, 'Madrid', 'marcos@gmail.com', '2020-01-01');
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (2, 8, 'Zaragoza', 'juanjo@gmail.com', '2020-01-01');
+insert into contacto (unidades, id, ciudad, correo_de_contacto, fecha_de_alta) values (2, 9, 'Guadalajara', 'albelrto@gmail.com', '2020-01-01');
